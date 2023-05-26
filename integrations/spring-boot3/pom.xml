@@ -12,7 +12,7 @@
     </parent>
 
     <properties>
-        <org.springframework.boot.version>3.0.0</org.springframework.boot.version>
+        <org.springframework.boot.version>3.0.7</org.springframework.boot.version>
     </properties>
 
 
